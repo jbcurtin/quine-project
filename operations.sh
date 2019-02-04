@@ -18,7 +18,8 @@ if [ "$1" == 'deploy-docs' ]; then
   cd docs
   rm -rf site
   mkdocs build
-  mkdocs gh-deploy -r github/jbcurtin --force
+  mkdocs gh-deploy -r github/jbcurtin
+  #--force
   cd -
 fi
 if [ "$1" == 'serve-docs' ]; then
