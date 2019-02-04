@@ -1,0 +1,24 @@
+site_name: Quine&#x3a; Quick and Recursive AWS Service Clusters
+site_url: https://jbcurtin.github.io/quine.pspython.com/
+# site_url: https://quine.pspython.com/
+
+nav:
+  - Introduction: index.md
+  - Multinational Pledge: multinational-pledge.md
+  - Language Bridge: language-bridge.md
+  - Deployment Types:
+    - Getting Started: deployment-targets-getting-started.md
+    - Turtle Deployment: deployment-target-turtle.md
+    - Forward Deployment: deployment-target-forward.md
+    - Kubernetes Deployment: deployment-target-k8.md
+    - Rancher Deployment: deployment-target-rancher.md
+    - PostgreSQL Deployment: deployment-target-postgresql-cluster.md
+    - MySQL Deployment: deployment-target-mysql-cluster.md
+    - Redis Deployment: deployment-target-redis-cluster.md
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'teal'
+    accent: 'orange'
+
