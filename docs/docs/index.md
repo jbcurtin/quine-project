@@ -64,7 +64,7 @@ with pre-configured deployment topologies
 * [kubernetes Deployment](/deployment-target-k8/)
 * [Rancher Deployment](/deployment-target-rancher/)
 
-#### Gödel, Escher, Bach
+### Gödel, Escher, Bach
 [excerpt](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach): Gödel, Escher, Bach: An Eternal Golden Braid, also known as GEB, is a 1979 book by Douglas Hofstadter. By exploring common themes in the lives and works of logician Kurt Gödel, artist M. C. Escher, and composer Johann Sebastian Bach, the book expounds concepts fundamental to mathematics, symmetry, and intelligence. Through illustration and analysis, the book discusses how, through self-reference and formal rules, systems can acquire meaning despite being made of "meaningless" elements. It also discusses what it means to communicate, how knowledge can be represented and stored, the methods and limitations of symbolic representation, and even the fundamental notion of "meaning" itself.
 
 The primary benefit of Tortoise + Achilles deployment is reduction in downtime while maximizing availably and full featured deployment for testing. In theory, automated testing should never
@@ -77,7 +77,7 @@ with pre-configured deployment topologies
 * [kubernetes Deployment](/deployment-target-k8/)
 * [Rancher Deployment](/deployment-target-rancher/)
 
-#### What is a Quine?
+### What is a Quine?
 [excerpt](https://en.wikipedia.org/wiki/Quine_\(computing\)): A quine is a computer program which takes no input and produces a copy of its own source code as its only output. The standard terms for these programs in the computability theory and computer science literature are "self-replicating programs", "self-reproducing programs", and "self-copying programs".
 
 Input is Amazon Web Services and output are AWS Clusters
